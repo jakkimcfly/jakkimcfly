@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkimcfly&show_icons=true&title_color=#00a8f2&bg_color=#f7f6fd)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkimcfly&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkimcfly&langs_count=8)](https://github.com/jakkimcfly)
