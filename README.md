@@ -6,4 +6,4 @@
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkimcfly&langs_count=8&theme=tokyonight)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkimcfly&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=InitialState&theme=tokyonights)](https://github.com/jakkimcfly/InitialState)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=InitialState&theme=tokyonight)](https://github.com/jakkimcfly/InitialState)
