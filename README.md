@@ -1,4 +1,6 @@
 <div align="center">
+  
+[![Hello World, I'm Alexander!](assets/banner.jpg)](https://github.com/jakkimcfly)
 
 ## 💻 My Tech Stack:
 
