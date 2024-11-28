@@ -23,24 +23,24 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 
 [![JavaScript, TypeScript, HTML, CSS, PHP, Go, Dart, Python,](https://skillicons.dev/icons?i=js,ts,html,css,php,go,dart,python)](https://skillicons.dev)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-191724?style=for-the-badge&logo=visual-studio-code)
-![Xcode](https://img.shields.io/badge/Xcode-191724?style=for-the-badge&logo=Xcode)
-![Android Studio](https://img.shields.io/badge/android%20studio-191724?style=for-the-badge&logo=android%20studio)
-![Git](https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=Git)
-![Docker](https://img.shields.io/badge/Docker-191724?style=for-the-badge&logo=Docker)
-![Linux](https://img.shields.io/badge/Linux-191724?style=for-the-badge&logo=linux&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-191724?style=for-the-badge&logo=nginx)
-![Apache](https://img.shields.io/badge/apache-191724?style=for-the-badge&logo=apache&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-191724?style=for-the-badge&logo=composer)
-![Node.js](https://img.shields.io/badge/Node.js-191724?style=for-the-badge&logo=node.js)
-![Webpack](https://img.shields.io/badge/webpack-191724?style=for-the-badge&logo=webpack)
-![Vue.js](https://img.shields.io/badge/Vue.js-191724?style=for-the-badge&logo=vue.js)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-191724?style=for-the-badge&logo=nuxtdotjs)
-![SASS](https://img.shields.io/badge/SASS-191724?style=for-the-badge&logo=SASS)
-![Flutter](https://img.shields.io/badge/Flutter-191724?style=for-the-badge&logo=Flutter&logoColor=blue)
-![SQLite](https://img.shields.io/badge/sqlite-191724?style=for-the-badge&logo=sqlite)
-![Postgres](https://img.shields.io/badge/postgres-191724?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-191724?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-191824?style=for-the-badge&logo=visual-studio-code)
+![Xcode](https://img.shields.io/badge/Xcode-191824?style=for-the-badge&logo=Xcode)
+![Android Studio](https://img.shields.io/badge/android%20studio-191824?style=for-the-badge&logo=android%20studio)
+![Git](https://img.shields.io/badge/Git-191824?style=for-the-badge&logo=Git)
+![Docker](https://img.shields.io/badge/Docker-191824?style=for-the-badge&logo=Docker)
+![Linux](https://img.shields.io/badge/Linux-191824?style=for-the-badge&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-191824?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/apache-191824?style=for-the-badge&logo=apache&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-191824?style=for-the-badge&logo=composer)
+![Node.js](https://img.shields.io/badge/Node.js-191824?style=for-the-badge&logo=node.js)
+![Webpack](https://img.shields.io/badge/webpack-191824?style=for-the-badge&logo=webpack)
+![Vue.js](https://img.shields.io/badge/Vue.js-191824?style=for-the-badge&logo=vue.js)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-191824?style=for-the-badge&logo=nuxtdotjs)
+![SASS](https://img.shields.io/badge/SASS-191824?style=for-the-badge&logo=SASS)
+![Flutter](https://img.shields.io/badge/Flutter-191824?style=for-the-badge&logo=Flutter&logoColor=blue)
+![SQLite](https://img.shields.io/badge/sqlite-191824?style=for-the-badge&logo=sqlite)
+![Postgres](https://img.shields.io/badge/postgres-191824?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-191824?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -48,20 +48,19 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
+<!-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-191824?style=for-the-badge&logo=digitalOcean)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-191824?style=for-the-badge&logo=Cloudflare)
+![Firebase](https://img.shields.io/badge/firebase-191824?style=for-the-badge&logo=firebase) -->
 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-191724?style=for-the-badge&logo=digitalOcean)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-191724?style=for-the-badge&logo=Cloudflare)
-![Firebase](https://img.shields.io/badge/firebase-191724?style=for-the-badge&logo=firebase)
-
-## 🔥 My GitHub Stats 🔥
+## 🔥 My GitHub Stats
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border_radius=112"/>
 </a>
 <a href="https://github.com/jakkimcfly/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakkimcfly&layout=compact&langs_count=8&card_width=320&theme=rose_pine&hide_border=true&border_radius=8" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakkimcfly&layout=compact&langs_count=8&card_width=320&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://github.com/jakkimcfly/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8"/>
