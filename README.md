@@ -10,6 +10,8 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jakkimcfly)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jakkimcfly)
 
+---
+
 👨‍💻 Full-stack & App Developer, UI/UX designer.
 💡 Passionate about coding and solving complex problems, a journey that started with my first computer.
 ✨ Expert in HTML/CSS/JS(TS).
@@ -17,7 +19,6 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 📱 Mobile app development with Flutter.
 🎵 Writing music in my free time.
 🏂 Enjoy snowboarding.
-🚴‍♂️ Enthusiast of BMX riding.
 
 ## 🛠️ Languages & Tools
 
@@ -48,11 +49,8 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
-<!-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-191824?style=for-the-badge&logo=digitalOcean)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-191824?style=for-the-badge&logo=Cloudflare)
-![Firebase](https://img.shields.io/badge/firebase-191824?style=for-the-badge&logo=firebase) -->
 
-## 🔥 My GitHub Stats
+## 🔥 GitHub Stats
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border_radius=112"/>
 </a>
