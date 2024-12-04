@@ -61,7 +61,7 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8"/>
+<img src="https://streak-stats.demolab.com/?user=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8"/>
 </a>
 
 ## :sparkles: Support
