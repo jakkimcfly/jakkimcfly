@@ -54,10 +54,10 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border_radius=112"/>
 </a>
-<a href="https://github.com/jakkimcfly/convoychat">
+<a href="https://github.com/jakkimcfly">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakkimcfly&layout=compact&langs_count=8&card_width=320&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
-<a href="https://github.com/jakkimcfly/github-readme-stats">
+<a href="https://github.com/jakkimcfly">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://git.io/streak-stats">
