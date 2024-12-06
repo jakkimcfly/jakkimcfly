@@ -61,7 +61,7 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8"/>
+  <img height=283 src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8"/>
 </a>
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com/?user=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8"/>
