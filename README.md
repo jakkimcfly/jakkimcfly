@@ -1,8 +1,6 @@
 <div align="center">
   
-[![Hello World, I'm Alexander!](header.gif)](https://github.com/jakkimcfly)
-Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
-
+[![Hello World, I'm Alexander!](header-240.gif)](https://github.com/jakkimcfly)
 
 [![Website](https://img.shields.io/badge/website-3e8fb0?style=for-the-badge&logoColor=white)](https://jakkimcfly.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakkimcfly)
