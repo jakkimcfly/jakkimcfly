@@ -51,14 +51,15 @@ Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 
 
 ## 🔥 GitHub Stats
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border_radius=112"/>
-</a>
+
 <a href="https://github.com/jakkimcfly">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakkimcfly&layout=compact&langs_count=8&card_width=320&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://github.com/jakkimcfly">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border_radius=112"/>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8&height=368"/>
