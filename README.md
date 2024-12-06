@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Hello World, I'm Alexander!](header.gif)](https://github.com/jakkimcfly)
+[![Hello World, I'm Alexander!](header-260.gif)](https://github.com/jakkimcfly)
 Background GIF by Unknown from [Pinterest](https://www.pinterest.com/).
 
 
