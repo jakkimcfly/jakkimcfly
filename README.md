@@ -1,10 +1,7 @@
 <div align="center">
   
-<a href="#" style="display: flex; overflow: hidden; border-radius: 8px;">
-  <img src="header-240.gif"/>
-</a>
-
-
+[![Hello, I'm Alexander!](header-240.gif)](https://github.com/jakkimcfly)
+Background GIF from [Pinterest](https://www.pinterest.com/).
 
 [![Website](https://img.shields.io/badge/website-3e8fb0?style=for-the-badge&logoColor=white)](https://jakkimcfly.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakkimcfly)
