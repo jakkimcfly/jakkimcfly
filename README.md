@@ -64,7 +64,8 @@ Background GIF from [Pinterest](https://www.pinterest.com/).
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8&height=368"/>
 </a>
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8"/>
+<img src="https://github-readme-streak-stats-gamma-sooty.vercel.app/?user=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8"/>
+  
 </a>
 
 ## :sparkles: Support
