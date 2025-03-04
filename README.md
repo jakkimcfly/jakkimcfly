@@ -58,8 +58,9 @@ Background GIF from [Pinterest](https://www.pinterest.com/).
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border_radius=112"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jakkimcfly&theme=radical&no-frame=true&margin-w=4&border=8"/>
 </a>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8&height=368"/>
 </a>
@@ -68,7 +69,16 @@ Background GIF from [Pinterest](https://www.pinterest.com/).
   
 </a>
 
-## :sparkles: Support
+## 💡 Open Source Projects
+
+<a href="https://github.com/jakkimcfly/wv_user_agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=wv_user_agent&theme=rose_pine&hide_border=true&border_radius=8&icon_color=fe428e" alt="WebView User-Agent Flutter"></a>
+<a href="https://github.com/jakkimcfly/wv_user_agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=wv_user_agent&theme=rose_pine&hide_border=true&border_radius=8" alt="WebView User-Agent Flutter"></a>
+
+<a href="https://github.com/jakkimcfly?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/View%20All-191824?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
+
+
+## ✨ Support
 If you like the work I do, feel free to buy me a coffee! :coffee:
 
 <a href="https://www.buymeacoffee.com/jakkimcfly" target="_blank">
