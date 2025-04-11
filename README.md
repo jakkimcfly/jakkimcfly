@@ -71,10 +71,10 @@ Background GIF from [Pinterest](https://www.pinterest.com/).
 ## ⚡️ Open Source Projects
 
 <a href="https://github.com/jakkimcfly/wv_user_agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=wv_user_agent&theme=rose_pine&hide_border=true&border_radius=8" alt="WebView User-Agent Flutter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=wv_user_agent&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3" alt="WebView User-Agent Flutter">
 </a>
 <a href="https://github.com/jakkimcfly/project-organizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=project-organizer&theme=rose_pine&hide_border=true&border_radius=8" alt="WebView User-Agent Flutter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jakkimcfly&repo=project-organizer&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3" alt="WebView User-Agent Flutter">
 </a>
 
 ## ✨ Support
