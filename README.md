@@ -81,6 +81,6 @@ Background GIF from [Pinterest](https://www.pinterest.com/).
 If you like the work I do, feel free to buy me a coffee! :coffee:
 
 <a href="https://www.buymeacoffee.com/jakkimcfly" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 54px!important;"">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="54" width="auto">
 </a>
 </div>
