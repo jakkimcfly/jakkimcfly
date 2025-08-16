@@ -2,7 +2,7 @@
 Background GIF from [Pinterest](https://www.pinterest.com/).
 
 [![Website](https://img.shields.io/badge/website-3e8fb0?style=for-the-badge&logoColor=white)](https://jakkimcfly.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-000.svg?style=for-the-badge&logo=dev.to)](https://github.com/jakkimcfly)
+[![Dev.to](https://img.shields.io/badge/dev.to-000.svg?style=for-the-badge&logo=dev.to)](https://dev.to/jakkimcfly)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](http://www.behance.net/jakkimcfly)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jakkimcfly)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jakkimcfly)
