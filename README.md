@@ -1,27 +1,29 @@
 [![Hello, I'm Alexander!](images/header-240.gif)](https://github.com/jakkimcfly)
-Background GIF from [Pinterest](https://www.pinterest.com/).
+
+## 👨‍💻 Software Engineer (Fullstack & Mobile) · UI/UX Designer  
 
 [![Website](https://img.shields.io/badge/website-3e8fb0?style=for-the-badge&logoColor=white)](https://jakkimcfly.com)
 [![Dev.to](https://img.shields.io/badge/dev.to-000.svg?style=for-the-badge&logo=dev.to)](https://dev.to/jakkimcfly)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](http://www.behance.net/jakkimcfly)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jakkimcfly)
+[![X](https://img.shields.io/badge/X-000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jakkimcfly)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jakkimcfly)
 
----
+💡 Passionate Software Engineer with **strong** expertise in building modern `Web` and `Mobile Applications`, from architecture design to production-ready solutions.  
+✨ Skilled in crafting **Intuitive User Experiences** and solving **Complex Technical Challenges**.  
 
-👨‍💻 Full-stack & App Developer, UI/UX designer.
-💡 Passionate about coding and solving complex problems, a journey that started with my first computer.
-✨ Expert in HTML/CSS/JS(TS).
-⚙️ Backend development with Go, PHP, and Node.js.
-📱 Mobile app development with Flutter.
-🎵 Writing music in my free time.
-🏂 Enjoy snowboarding.
+> *🚀 Always exploring new technologies and pushing ideas into reality*.
+
+### 🌍 Beyond Code  
+
+- 🎵 Creating music in my free time.
+- 🏂 Snowboarding enthusiast.
 
 ## 🛠️ Languages & Tools
 
-[![JavaScript, TypeScript, HTML, CSS, PHP, Go, Dart, Python,](https://skillicons.dev/icons?i=js,ts,html,css,php,go,dart,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,php,dart,python,js,ts,html,css)](https://skillicons.dev)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-191824?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-191824.svg?style=for-the-badge&logo=vsc)
 ![Xcode](https://img.shields.io/badge/Xcode-191824?style=for-the-badge&logo=Xcode)
 ![Android Studio](https://img.shields.io/badge/android%20studio-191824?style=for-the-badge&logo=android%20studio)
 ![Git](https://img.shields.io/badge/Git-191824?style=for-the-badge&logo=Git)
@@ -31,10 +33,11 @@ Background GIF from [Pinterest](https://www.pinterest.com/).
 ![Apache](https://img.shields.io/badge/apache-191824?style=for-the-badge&logo=apache&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-191824?style=for-the-badge&logo=composer)
 ![Node.js](https://img.shields.io/badge/Node.js-191824?style=for-the-badge&logo=node.js)
+![npm](https://img.shields.io/badge/npm-191824?style=for-the-badge&logo=npm)
 ![Webpack](https://img.shields.io/badge/webpack-191824?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/vite-191824?style=for-the-badge&logo=vite)
 ![Vue.js](https://img.shields.io/badge/Vue.js-191824?style=for-the-badge&logo=vue.js)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-191824?style=for-the-badge&logo=nuxtdotjs)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-191824?style=for-the-badge&logo=nuxt)
 ![SASS](https://img.shields.io/badge/SASS-191824?style=for-the-badge&logo=SASS)
 ![Flutter](https://img.shields.io/badge/Flutter-191824?style=for-the-badge&logo=Flutter&logoColor=blue)
 ![SQLite](https://img.shields.io/badge/sqlite-191824?style=for-the-badge&logo=sqlite)
