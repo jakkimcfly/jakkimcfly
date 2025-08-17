@@ -8,6 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jakkimcfly)
 [![X](https://img.shields.io/badge/X-000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jakkimcfly)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jakkimcfly)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jakkimcfly)
 
 💡 Passionate Software Engineer with **strong** expertise in building modern `Web` and `Mobile Applications`, from architecture design to production-ready solutions.  
 ✨ Skilled in crafting **Intuitive User Experiences** and solving **Complex Technical Challenges**.  
