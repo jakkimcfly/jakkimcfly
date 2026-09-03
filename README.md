@@ -62,14 +62,15 @@
 ### 🧩 Plugins
 
 **After Effects Scripts & Plugins:**
+
 [![Project Organizer](https://github-readme-stats-fast.vercel.app/api/pin/?username=jakkimcfly&repo=project-organizer&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/project-organizer)
 
 [![All My Repositories](https://img.shields.io/badge/View%20All%20My%20Repositories-3e8fb0?style=for-the-badge)](https://github.com/jakkimcfly?tab=repositories&sort=stargazers)
 
 ## 🔥 GitHub Stats
 
-<img height="190" src="https://github-readme-stats-fast-taupe.vercel.app/api/top-langs?username=jakkimcfly&layout=compact&langs_count=8&card_width=380&theme=rose_pine&hide_border=true&border_radius=8" /><img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8&height=368"/>
+<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jakkimcfly&layout=compact&langs_count=8&card_width=380&theme=rose_pine&hide_border=true&border_radius=8" /><img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=jakkimcfly&theme=rose_pine&hide_border=true&border_radius=8" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph/?username=jakkimcfly&bg_color=191824&color=9ccfd8&line=fe428e&point=e0def4&hide_border=true&radius=8&height=368"/> -->
 
 ## ✨ Support
 
