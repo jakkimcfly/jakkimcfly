@@ -56,14 +56,13 @@
 
 ### 📦 Packages
 
-[![Browser Switcher](https://github-readme-stats-fast-taupe.vercel.app/api/pin/?username=jakkimcfly&repo=browser-switcher&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/browser-switcher)
-[![WebView User Agent](https://github-readme-stats-fast-taupe.vercel.app/api/pin/?username=jakkimcfly&repo=wv_user_agent&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/wv_user_agent)
+[![Browser Switcher](https://github-readme-stats-fast.vercel.app/api/pin/?username=jakkimcfly&repo=browser-switcher&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/browser-switcher)
+[![WebView User Agent](https://github-readme-stats-fast.vercel.app/api/pin/?username=jakkimcfly&repo=wv_user_agent&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/wv_user_agent)
 
 ### 🧩 Plugins
 
 **After Effects Scripts & Plugins:**
-
-[![Project Organizer](https://github-readme-stats-fast-taupe.vercel.app/api/pin/?username=jakkimcfly&repo=project-organizer&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/project-organizer)
+[![Project Organizer](https://github-readme-stats-fast.vercel.app/api/pin/?username=jakkimcfly&repo=project-organizer&theme=rose_pine&hide_border=true&border_radius=8&description_lines_count=3)](https://github.com/jakkimcfly/project-organizer)
 
 [![All My Repositories](https://img.shields.io/badge/View%20All%20My%20Repositories-3e8fb0?style=for-the-badge)](https://github.com/jakkimcfly?tab=repositories&sort=stargazers)
 
